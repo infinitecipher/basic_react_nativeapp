@@ -24,5 +24,4 @@ This is a basic react native application the showcase components, javascript sty
 
   <img src="./docs/images/img2.png" alt="React native" style="padding:10px"
     title="add list" width="150" height="auto" />
-  
 </div>
